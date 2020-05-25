@@ -1,0 +1,19 @@
+{
+  "name": "playcanvas-typescript",
+  "version": "1.0.0",
+  "description": "Starter project for writing PlayCanvas editor scripts with TypeScript.",
+  "main": "",
+  "scripts": {
+    "start": "npm run watch",
+    "build": "npx tsc",
+    "watch": "npx tsc -w"
+  },
+  "author": "Lloyd Evans",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "playcanvas": "^1.27.0"
+  }
+}
