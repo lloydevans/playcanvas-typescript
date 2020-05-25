@@ -7,7 +7,7 @@
 
 # playcanvas-typescript
 
-#### Simple project for writing PlayCanvas editor scripts with TypeScript.
+#### Simple project for writing PlayCanvas scripts with TypeScript.
 
 </div>
 
