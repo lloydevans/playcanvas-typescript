@@ -21,7 +21,7 @@
 // Extend type definitions.
 declare namespace pc {
   interface ScriptComponent {
-    PcScript?: game.PcScript;
+    pcScript?: game.PcScript;
   }
 }
 
@@ -43,7 +43,7 @@ namespace game {
   }
 
   // Register class.
-  pc.registerScript(PcScript);
+  pc.registerScript(PcScript, "pcScript");
 
   // Register component attributes.
   PcScript.attributes.add("scriptAttribute", {
