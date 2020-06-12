@@ -19,5 +19,9 @@
     "declaration": false
   },
 
-  "include": ["types/custom.d.ts", "src"]
+  "include": [
+    "node_modules/playcanvas/build/output/playcanvas.d.ts",
+    "types/custom.d.ts",
+    "src"
+  ]
 }
