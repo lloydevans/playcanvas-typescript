@@ -13,6 +13,8 @@
 
 #### 📜📜📜ԅ( ͒ ۝ ͒ ) Tasty docs in your IDE.
 
+#### (╯✧ ∇ ✧)╯ 🧙 Modern JS features!
+
 </div>
 
 ## Setup
