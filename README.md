@@ -9,6 +9,8 @@
 
 #### Simple project for writing PlayCanvas scripts with TypeScript.
 
+#### (ﾉ☉ヮ⚆)ﾉ ⌒*:･ﾟ✧ 🐛🐛🐛 Bugs shall not pass!
+
 </div>
 
 ## Setup
