@@ -11,6 +11,8 @@
 
 #### (ﾉ☉ヮ⚆)ﾉ ⌒*:･ﾟ✧ 🐛🐛🐛 Bugs shall not pass!
 
+#### 📜📜📜ԅ( ͒ ۝ ͒ ) Tasty docs in your IDE.
+
 </div>
 
 ## Setup
