@@ -7,7 +7,7 @@
 
 # playcanvas-typescript
 
-Basic starter project for writing a PlayCanvas project with TypeScript and Rollup. (Namespaced version).
+Basic starter project for writing a PlayCanvas project with TypeScript. (Namespaced version).
 
 </div>
 
