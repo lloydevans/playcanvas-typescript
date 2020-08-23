@@ -7,13 +7,7 @@
 
 # playcanvas-typescript
 
-#### Simple project for writing PlayCanvas scripts with TypeScript.
-
-#### (ﾉ☉ヮ⚆)ﾉ ⌒*:･ﾟ✧ 🐛🐛🐛 Bugs shall not pass!
-
-#### 📜📜📜ԅ( ͒ ۝ ͒ ) Tasty docs in your IDE.
-
-#### (╯✧ ∇ ✧)╯ 🧙 Modern JS features!
+Basic starter project for writing a PlayCanvas project with TypeScript and Rollup. (Namespaced version).
 
 </div>
 
