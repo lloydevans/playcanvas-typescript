@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 
@@ -7,9 +5,9 @@
 
 # playcanvas-typescript
 
-Basic starter project for writing a PlayCanvas project with TypeScript. (Namespaced version).
-
 </div>
+
+Basic starter project for writing a PlayCanvas project with TypeScript. (Namespaced version).
 
 ## Setup
 
